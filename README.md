@@ -1,3 +1,3 @@
 # probador1
-aux prueba
+aux try numero biaux
 
